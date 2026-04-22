@@ -1,13 +1,33 @@
 BEST MODEL
-model: Random Forest
+model: Linear Regression (with SelectKBest)
 
 HYPERPARAMETERS
-n_features: 10
-max_depth: 10
-min_samples_leaf: 1
-min_samples_split: 5
-n_estimators: 25
+SelectKBest k: 10 (all features retained)
+target transform: identity (log-target tried; see below)
 
-PERFORMANCE
-MAE mean: 5230.81
-MAE standard deviation: 358.46
+PERFORMANCE (5-fold CV on training set)
+LR MAE mean: 5433.60
+LR MAE std:  536.08
+
+PERFORMANCE (held-out test set)
+Linear Regression   MAE: 5666.70   R^2: 0.7030   <-- primary
+Random Forest       MAE: 5597.95   R^2: 0.6845
+LR (log target)     MAE: 6185.76   R^2: 0.6759
+
+PURDUE PREDICTION (primary LR model)
+point estimate: $29,239
+actual 2018:    $28,794
+80% bootstrap interval: $28,077 - $30,428
+95% bootstrap interval: $27,470 - $31,111
+
+NOTES
+- state_mean is target-encoded from training data only (no test-set leakage).
+- RF tuned via RandomizedSearchCV with 60 iters (down from ~12k fits in the
+  original grid). Best params: n_estimators=100, max_depth=10,
+  min_samples_leaf=4, min_samples_split=2, k=10.
+- Log-transformed target was tested and lost on both MAE and R^2; linear target
+  kept as primary.
+- Feature importance reported via permutation_importance on the test set
+  (robust to the impurity-importance bias toward high-cardinality features).
+- Purdue's actual tuition falls inside the bootstrap 80% prediction interval:
+  the model puts Purdue roughly at peer price, not obviously underpriced.

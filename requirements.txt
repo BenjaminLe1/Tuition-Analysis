@@ -1,0 +1,10 @@
+# Pinned to the environment that produced models/tuition_model.pkl (LR v2.0).
+# Matching the exact sklearn version avoids InconsistentVersionWarning on unpickle.
+pandas==2.3.0
+numpy==2.3.1
+scikit-learn==1.7.0
+matplotlib==3.10.3
+seaborn==0.13.2
+thefuzz==0.22.1
+jupyter==1.1.1
+jupyterlab==4.3.5

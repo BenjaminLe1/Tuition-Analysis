@@ -1,350 +1,350 @@
-name,Private,Top10perc,Top25perc,Room.Board,PhD,S.F.Ratio,perc.alumni,Expend,Grad.Rate,out_of_state_tuition,state_mean
-Alaska Pacific University,1,16,44,4120,76,11.9,2,10922,15,20830.0,20830.0
-Albright College,1,30,63,4400,79,11.3,23,11644,80,45306.0,40010.93
-Amherst College,1,83,96,5300,93,8.4,63,21424,100,56426.0,42903.71
-Auburn University-Main Campus,0,25,57,3933,85,16.7,18,6642,69,30524.0,22816.29
-Augustana College,1,21,58,3244,66,10.4,30,6871,69,42135.0,33971.31
-Averett College,1,16,40,4135,59,22.4,11,6523,48,9870.0,31057.5
-Beaver College,1,23,56,5400,78,12.2,30,8954,73,13475.0,29738.82
-Beloit College,1,26,54,3616,87,11.1,26,12957,69,50040.0,32513.64
-Bemidji State University,0,12,36,2700,57,19.6,16,3752,46,8696.0,31501.71
-Bennington College,1,25,53,4100,35,10.1,33,16364,55,54360.0,40429.4
-Berry College,1,37,68,3940,80,16.3,17,10511,63,36556.0,29738.82
-Blackburn College,1,25,55,2700,76,14.3,53,8377,51,22410.0,33971.31
-Bowdoin College,1,76,100,5885,93,11.2,52,20447,96,53922.0,34116.75
-Bradley University,1,30,58,4440,75,14.4,21,7671,85,33760.0,33971.31
-Brandeis University,1,48,77,6750,90,9.8,24,17150,84,55395.0,42903.71
-Brewton-Parker College,1,10,26,2370,62,12.6,10,4900,18,18690.0,29738.82
-Bryn Mawr College,1,71,95,6750,100,12.3,49,17449,89,52360.0,40010.93
-California Lutheran University,1,23,52,5300,72,12.4,17,8985,60,42693.0,46781.28
-Calvin College,1,29,56,3710,75,14.8,41,7786,81,34600.0,30355.17
-Canisius College,1,16,34,5340,90,14.6,26,7972,64,28488.0,34395.78
-Capital University,1,34,66,4000,64,12.1,27,9557,83,35466.0,33040.07
-Carleton College,1,75,93,3957,81,10.4,60,17960,91,54759.0,31501.71
-Carnegie Mellon University,1,60,89,5690,86,9.2,31,24386,74,55465.0,40010.93
-Carroll College,1,19,55,3880,74,17.8,25,7666,79,35486.0,31999.0
-Carthage College,1,20,43,3775,74,15.9,22,7364,62,43550.0,32513.64
-Case Western Reserve University,1,71,93,4730,95,2.9,29,19733,67,49042.0,33040.07
-Castleton State College,0,9,22,4690,89,14.7,8,6318,79,12668.0,29738.82
-Catawba College,1,13,34,4100,75,13.5,27,8425,55,30520.0,28096.64
-Cazenovia College,1,9,35,4840,22,14.3,20,7697,65,34630.0,34395.78
-Cedar Crest College,1,25,58,5285,58,11.7,39,10961,74,39216.0,40010.93
-Centenary College of Louisiana,1,35,55,3490,86,11.3,25,9685,66,36580.0,28257.5
-Central Connecticut State University,0,6,24,4444,69,16.7,4,4900,49,21856.0,40873.0
-Central Washington University,0,8,65,3603,67,18.1,0,6413,51,23053.0,35535.4
-Christendom College,1,33,71,3600,92,9.3,17,10922,58,26360.0,35351.36
-Christian Brothers University,1,16,42,3260,81,11.1,24,8129,63,32820.0,28651.89
-Christopher Newport University,0,3,37,4750,80,21.2,16,4639,48,27220.0,35351.36
-Claremont McKenna College,1,71,93,6010,99,9.6,52,18443,87,54405.0,46781.28
-Clarkson University,1,35,68,5580,95,15.8,32,11659,77,49444.0,34395.78
-Colby College,1,58,84,5590,83,10.2,41,15954,91,55210.0,34116.75
-Colgate University,1,46,75,5565,95,10.5,45,15494,93,55870.0,34395.78
-College of Mount St. Joseph,1,14,41,4430,46,11.1,35,6889,100,21275.0,40010.93
-College of Saint Benedict,1,29,62,4221,70,13.1,26,8847,72,45264.0,31501.71
-College of Saint Elizabeth,1,34,53,5250,68,11.4,23,9447,78,33613.0,32884.6
-College of Saint Rose,1,23,57,5666,66,14.3,28,6084,64,32574.0,34395.78
-College of St. Scholastica,1,29,60,3696,54,11.6,33,8996,72,37212.0,31501.71
-College of Wooster,1,29,65,4690,84,11.1,43,14140,69,50250.0,33040.07
-Colorado College,1,56,87,4190,85,11.3,51,14664,84,55470.0,32213.33
-Connecticut College,1,42,93,6300,86,10.7,40,14773,91,54820.0,40873.0
-Converse College,1,35,70,3700,63,10.2,31,10965,75,18690.0,28452.0
-Cornell College,1,33,68,4323,71,12.2,31,10340,64,42299.0,35244.9
-Creighton University,1,30,60,4372,85,6.5,32,22906,85,39916.0,25599.25
-Culver-Stockton College,1,24,55,3700,51,14.1,28,5807,51,26680.0,26265.25
-Cumberland College,1,26,47,3526,42,13.0,4,8189,63,8700.0,32884.6
-Dartmouth College,1,87,99,6070,95,4.7,49,29619,98,55453.0,44855.67
-Defiance College,1,10,26,3670,58,12.8,19,7505,56,32730.0,33040.07
-Dickinson College,1,31,68,5000,87,11.2,39,13861,87,54661.0,40010.93
-Dillard University,1,41,88,3650,52,14.1,12,7566,61,18099.0,28257.5
-Dominican College of Blauvelt,1,4,19,5500,43,12.7,5,5480,54,29000.0,34395.78
-Dordt College,1,25,50,2650,61,12.5,17,7325,87,30870.0,35244.9
-Earlham College,1,35,63,4056,90,10.6,46,14634,78,46450.0,34490.31
-Eastern Nazarene College,1,17,40,3500,58,17.3,17,6430,70,25598.0,42903.71
-Elizabethtown College,1,36,70,4400,65,12.8,25,9815,81,46940.0,40010.93
-Emory & Henry College,1,30,60,4408,79,13.9,51,8061,82,35135.0,35351.36
-Emory University,1,76,97,6000,97,5.0,28,28457,96,51306.0,29738.82
-Evergreen State College,0,14,50,4600,75,18.1,14,8355,68,26459.0,35535.4
-Fairfield University,1,30,66,6200,86,15.1,30,11220,94,48350.0,40873.0
-Fayetteville State University,0,1,16,2550,75,15.1,10,6972,24,16523.0,28096.64
-Ferrum College,1,12,36,4200,53,12.5,9,7967,22,34175.0,35351.36
-Flagler College,1,18,52,3200,52,18.1,9,3930,69,18950.0,25266.67
-Florida State University,0,50,90,4060,80,23.1,15,7250,58,21683.0,25266.67
-Fordham University,1,30,55,6965,86,14.4,14,10864,80,52687.0,34395.78
-Fort Lewis College,0,16,35,3320,89,19.1,6,4362,46,19696.0,32213.33
-Franciscan University of Steubenville,1,22,49,4400,57,14.9,8,6336,83,27630.0,33040.07
-Franklin College,1,29,72,4040,54,12.5,37,11751,60,32010.0,34490.31
-Franklin Pierce College,1,3,14,4630,50,17.6,16,6418,51,5112.0,35535.4
-Freed-Hardeman University,1,20,54,3340,68,16.1,13,6078,62,21950.0,28651.89
-Fresno Pacific College,1,51,87,3670,59,10.5,14,8095,54,15804.0,46781.28
-Gannon University,1,24,57,4280,47,13.3,18,7711,65,32136.0,40010.93
-Gardner Webb University,1,18,36,4270,65,15.2,12,5664,29,31220.0,28096.64
-Geneva College,1,19,39,4820,67,20.1,26,6786,74,26730.0,40010.93
-Georgetown College,1,30,55,3950,73,13.3,28,7508,55,38650.0,30026.33
-Gettysburg College,1,42,78,4328,94,12.1,32,14720,83,54480.0,40010.93
-Goldey Beacom College,1,10,27,2985,25,27.6,4,6081,36,24300.0,24300.0
-Gonzaga University,1,31,67,4450,78,14.7,32,9553,69,43210.0,35535.4
-Goshen College,1,26,51,3730,51,9.9,46,10270,72,33700.0,34490.31
-Goucher College,1,40,64,6174,78,9.2,34,16623,77,44300.0,31057.5
-Green Mountain College,1,7,20,2700,77,14.0,24,6475,76,37002.0,40429.4
-Greensboro College,1,10,31,3770,64,13.0,31,7949,39,29140.0,28096.64
-Grinnell College,1,56,91,4618,88,9.5,54,18979,83,52392.0,35244.9
-Guilford College,1,18,44,5160,78,15.6,30,9114,65,38250.0,28096.64
-Gustavus Adolphus College,1,36,72,3600,79,12.5,58,9907,80,45400.0,31501.71
-Hamilton College,1,40,82,5050,91,9.6,60,17761,91,54620.0,34395.78
-Hamline University,1,34,73,4194,89,13.0,33,10296,65,41298.0,31501.71
-Hampden - Sydney College,1,20,40,4773,95,13.3,53,12263,69,45746.0,35351.36
-Hardin-Simmons University,1,16,40,2980,75,13.7,10,7054,38,28990.0,24865.5
-Hartwick College,1,22,49,4780,75,12.3,32,11625,73,45510.0,34395.78
-Harvey Mudd College,1,95,100,6690,100,8.2,46,21569,100,56876.0,46781.28
-Hastings College,1,22,52,3272,57,13.0,17,7335,52,30050.0,25599.25
-Hillsdale College,1,35,66,4700,80,12.0,31,12639,79,27577.0,30355.17
-Hiram College,1,37,66,4560,75,10.6,34,12165,79,34300.0,33040.07
-Hofstra University,1,25,63,5920,81,13.9,10,10093,60,46760.0,34395.78
-Hood College,1,36,64,6040,82,14.4,34,12434,72,39492.0,31057.5
-Hope College,1,37,69,4341,72,12.5,40,9284,72,34010.0,30355.17
-Houghton College,1,30,70,3550,85,15.0,24,8187,67,32488.0,34395.78
-Huntingdon College,1,26,47,3920,63,11.4,9,7703,44,27400.0,22816.29
-Huntington College,1,20,46,3920,76,11.8,25,9466,47,6635.0,28651.89
-Husson College,1,10,30,4000,36,22.0,4,4923,84,26900.0,28200.0
-Illinois State University,0,10,35,3403,77,21.0,16,5569,54,26040.0,33971.31
-Illinois Wesleyan University,1,55,86,4090,77,12.9,34,9605,83,47636.0,33971.31
-Indiana State University,0,10,31,3706,72,16.6,8,6996,40,19836.0,34490.31
-Indiana University at Bloomington,0,25,72,3990,77,21.3,24,8686,68,35456.0,34490.31
-Indiana Wesleyan University,1,20,48,3782,49,39.8,15,6562,34,25980.0,34490.31
-Ithaca College,1,23,52,6192,58,11.5,25,9812,75,43978.0,34395.78
-James Madison University,0,32,72,4544,77,17.9,29,5212,98,28416.0,35351.36
-Johnson State College,0,3,13,4690,80,14.4,15,6564,36,18641.0,40010.93
-Judson College,1,10,30,4554,34,10.6,30,7840,56,18510.0,22816.29
-Kansas Wesleyan University,1,16,40,3250,63,12.4,14,6535,68,29500.0,28200.0
-Kentucky Wesleyan College,1,20,49,4150,57,11.3,32,7058,62,26440.0,30026.33
-Keuka College,1,10,43,4550,55,13.3,43,7863,51,32093.0,34395.78
-Knox College,1,48,77,4062,88,12.7,33,13224,79,46554.0,33971.31
-La Roche College,1,10,41,4782,57,14.2,14,7022,52,28564.0,40010.93
-La Salle University,1,20,56,5610,90,15.1,9,9084,84,30560.0,40010.93
-Lafayette College,1,36,59,5740,93,10.5,38,15365,92,52880.0,40010.93
-Lawrence University,1,50,77,3891,76,10.1,57,13965,77,47475.0,32513.64
-Le Moyne College,1,21,76,4840,89,13.3,28,8118,94,34625.0,34395.78
-Lebanon Valley College,1,28,56,4755,84,12.3,30,8196,85,43650.0,40010.93
-Lehigh University,1,40,84,5580,96,12.5,43,14665,91,52930.0,40010.93
-Lesley College,1,12,33,5300,71,27.8,18,8694,58,5313.0,24865.5
-LeTourneau University,1,29,54,4240,58,20.8,23,6863,56,30210.0,24865.5
-Lincoln Memorial University,1,21,55,2890,67,14.6,35,5177,53,22010.0,28651.89
-Livingstone College,1,22,47,3400,53,10.4,16,9268,92,18297.0,28096.64
-Lock Haven University of Pennsylvania,0,17,41,3620,47,16.1,14,6374,63,20452.0,40010.93
-Louisiana College,1,33,61,3036,64,10.5,11,7547,59,17000.0,28257.5
-Louisiana State University at Baton Rouge,0,29,57,2980,83,15.9,11,6741,37,21886.0,40010.93
-Louisiana Tech University,0,22,45,2325,66,20.0,13,4546,45,18558.0,28257.5
-Loyola Marymount University,1,42,64,5916,84,14.2,10,11677,84,48522.0,46781.28
-Loyola University Chicago,1,25,55,5330,94,6.2,15,13009,65,44048.0,33971.31
-Lycoming College,1,16,37,4300,75,14.0,32,8024,72,40315.0,40010.93
-Lyndon State College,0,6,20,4640,48,12.6,15,7114,51,25394.0,40429.4
-Macalester College,1,56,86,4772,85,11.9,37,14213,77,54344.0,31501.71
-Manchester College,1,23,63,3850,63,11.8,20,7940,64,24218.0,30355.17
-Manhattan College,1,20,63,6800,92,13.6,25,10062,79,43480.0,34395.78
-Manhattanville College,1,21,54,6550,97,11.3,24,11291,70,38820.0,34395.78
-Mankato State University,0,9,29,2643,57,19.0,11,5801,68,16235.0,31501.71
-Marist College,1,12,31,5925,74,17.6,34,8408,69,39600.0,34395.78
-Marquette University,1,36,71,4760,86,13.5,25,9982,77,41870.0,32513.64
-Marymount Manhattan College,1,21,30,7000,63,11.7,20,10622,68,33778.0,34395.78
-Maryville College,1,26,52,4208,80,11.1,43,8317,51,34880.0,28651.89
-Massachusetts Institute of Technology,1,96,99,5975,99,10.1,35,33541,94,51832.0,42903.71
-McMurry University,1,25,50,3452,57,11.0,11,6383,32,27244.0,24865.5
-Mercer University,1,37,70,4081,93,9.2,15,8995,91,36894.0,29738.82
-Mercyhurst College,1,15,40,4050,45,16.7,29,7307,78,9900.0,10450.0
-Merrimack College,1,18,36,6200,73,16.8,22,8707,80,41760.0,42903.71
-Mesa State College,0,6,18,3798,48,28.8,12,3871,59,8958.0,33040.07
-Messiah College,1,30,64,5080,68,14.1,30,7762,89,35160.0,40010.93
-Miami University at Oxford,0,35,39,3960,81,17.6,20,7846,85,34895.0,33040.07
-Michigan Technological University,0,42,77,3978,82,17.0,25,7473,65,33726.0,30355.17
-Milligan College,1,26,52,3300,63,12.0,16,8128,64,33700.0,28651.89
-Millikin University,1,29,62,4378,60,11.4,25,8149,75,35102.0,33971.31
-Mississippi College,1,36,57,2830,77,16.5,18,6170,61,18026.0,10450.0
-Mississippi University for Women,0,19,46,2217,49,15.8,8,5704,63,7040.0,10450.0
-Missouri Valley College,1,5,35,5050,35,17.4,16,4333,27,20600.0,26265.25
-Monmouth College,1,14,34,5290,70,14.2,15,9492,54,37674.0,33971.31
-Montclair State University,0,19,53,4834,82,21.5,9,6717,58,20578.0,32884.6
-Moravian College,1,23,58,4730,86,15.2,28,9566,74,43636.0,40010.93
-Morehouse College,1,41,66,5490,71,17.8,10,8122,83,27574.0,29738.82
-Morningside College,1,16,36,3678,48,13.0,32,8111,56,31530.0,35244.9
-Morris College,1,2,13,2550,53,18.6,34,6990,60,13886.0,28452.0
-Mount Holyoke College,1,47,79,5700,79,9.0,51,18359,84,49998.0,42903.71
-Mount Marty College,1,17,37,2980,45,11.7,38,5073,44,27276.0,27276.0
-Mount Mary College,1,12,32,3119,51,10.7,26,7016,78,35720.0,42903.71
-Mount Mercy College,1,20,49,3555,44,11.3,30,6695,64,19042.0,34395.78
-Mount Saint Mary College,1,14,48,4600,74,15.3,23,6898,88,31118.0,34395.78
-Murray State University,0,29,55,3110,72,20.2,27,5972,52,24540.0,30026.33
-Nazareth College of Rochester,1,36,68,5150,77,13.6,24,8797,61,34280.0,34395.78
-North Carolina Wesleyan College,1,7,24,4230,77,12.7,11,10090,52,31000.0,28096.64
-North Park College,1,19,39,4345,76,13.1,24,10889,74,5220.0,24865.5
-Northern Illinois University,0,12,37,3296,73,17.3,11,6086,56,12262.0,33971.31
-Northwest Missouri State University,0,8,29,3136,62,21.7,23,5284,54,16457.0,26265.25
-Norwich University,1,8,29,5270,71,13.1,22,9209,63,40016.0,40429.4
-Notre Dame College,1,15,37,4900,44,12.1,26,4948,33,30160.0,33040.07
-Occidental College,1,52,81,5140,91,10.5,30,16196,79,54686.0,46781.28
-Oglethorpe University,1,56,87,4340,91,13.1,27,8568,67,38100.0,29738.82
-Ohio Northern University,1,35,62,4080,73,14.5,31,9979,83,32260.0,33040.07
-Oklahoma Baptist University,1,35,59,3140,63,15.1,18,5511,50,28258.0,25680.5
-Ouachita Baptist University,1,31,73,2800,63,13.3,10,6413,65,26790.0,26790.0
-Our Lady of the Lake University,1,22,46,3644,56,14.9,25,7114,37,28740.0,24865.5
-Pacific Lutheran University,1,31,68,4488,78,11.0,23,9431,83,42066.0,35535.4
-Pacific Union College,1,20,48,3825,48,12.3,12,9157,69,30060.0,46781.28
-Pepperdine University,1,86,96,6770,95,11.6,13,16185,66,53932.0,46781.28
-Peru State College,0,10,40,2624,48,20.1,24,4870,44,7482.0,25599.25
-Phillips University,1,19,50,3860,58,11.6,19,8990,39,39035.0,35351.36
-Piedmont College,1,20,40,3620,89,13.2,17,7309,31,25920.0,29738.82
-Pitzer College,1,37,73,5900,100,10.4,11,14820,73,54056.0,46781.28
-Prairie View A. and M. University,0,10,22,3500,55,19.4,1,5967,35,24843.0,24865.5
-Presbyterian College,1,34,63,3635,80,13.4,42,8354,85,38660.0,28452.0
-Princeton University,1,90,98,5910,91,8.4,54,28320,99,49330.0,32884.6
-Providence College,1,20,55,6200,66,18.4,35,8135,96,50390.0,38591.33
-Purdue University at West Lafayette,0,29,60,3990,86,18.2,15,8604,67,28794.0,34490.31
-Queens College,1,32,62,4970,73,14.0,36,9315,58,18608.0,34395.78
-Quincy University,1,22,66,4140,69,16.3,32,6880,80,28462.0,33971.31
-Regis College,1,18,38,5800,81,10.3,37,11758,84,41015.0,42903.71
-Rensselaer Polytechnic Institute,1,53,82,5976,94,15.4,21,15605,70,53880.0,34395.78
-Roanoke College,1,27,54,4425,85,13.0,26,9405,72,44030.0,35351.36
-Rocky Mountain College,1,11,31,3362,56,11.3,27,6422,68,28512.0,31999.0
-Roger Williams University,1,10,20,6050,44,16.4,8,7957,61,34522.0,38591.33
-Rollins College,1,31,55,5220,81,13.3,23,11561,90,49760.0,25266.67
-Sacred Heart University,1,19,51,5780,71,14.8,16,7120,82,41420.0,40873.0
-Saint Ambrose University,1,12,48,4020,56,14.1,16,7444,70,30894.0,35244.9
-Saint Anselm College,1,15,40,5400,70,14.5,29,6719,97,41200.0,44855.67
-Saint Cloud State University,0,10,34,2625,70,18.9,10,4629,58,17146.0,31501.71
-Saint Francis College,1,21,45,5050,64,19.3,24,7344,69,26188.0,34395.78
-Saint Mary's College,1,26,60,4514,74,9.9,31,11165,98,42220.0,34490.31
-Saint Michael's College,1,16,64,5860,79,14.5,34,10190,84,45375.0,40429.4
-Saint Olaf College,1,38,73,3750,82,10.0,31,12502,83,47840.0,31501.71
-Saint Xavier University,1,15,65,4624,87,13.7,15,8953,55,33880.0,33971.31
-Santa Clara University,1,40,73,5928,88,13.9,19,10872,100,51711.0,46781.28
-Sarah Lawrence College,1,57,82,6694,89,6.1,18,14779,83,55900.0,34395.78
-Savannah Coll. of Art and Design,1,20,65,5000,14,16.1,26,6874,55,36630.0,29738.82
-Scripps College,1,60,83,7350,95,8.2,41,18372,73,55024.0,46781.28
-Seattle Pacific University,1,42,82,4875,83,16.8,20,10368,66,42939.0,35535.4
-Seattle University,1,28,72,4375,85,12.2,16,10175,89,44610.0,35535.4
-Simmons College,1,23,53,6950,74,8.9,33,14086,79,40800.0,42903.71
-Simpson College,1,27,57,4980,66,15.8,36,7411,70,39144.0,35244.9
-Skidmore College,1,25,62,5970,87,12.7,29,14837,81,54420.0,34395.78
-Southeastern Oklahoma State Univ.,0,20,50,2619,55,19.6,9,4444,53,15390.0,25680.5
-Southwest State University,0,13,33,2750,58,16.5,31,6591,51,8632.0,31501.71
-Southwestern Adventist College,1,11,27,3736,44,13.0,12,5309,36,6550.0,10450.0
-Spalding University,1,10,45,2800,50,10.6,40,6860,89,24500.0,30026.33
-Spelman College,1,47,83,5565,73,12.5,18,9988,65,29314.0,29738.82
-St. Bonaventure University,1,13,45,4927,91,17.7,32,9828,78,34301.0,34395.78
-St. Mary's College of California,1,36,80,6354,88,16.1,17,9619,78,47280.0,46781.28
-St. Mary's College of Maryland,0,42,73,4730,84,11.6,23,10357,63,30568.0,31057.5
-St. Mary's University of San Antonio,1,33,60,3858,82,16.2,7,7651,72,30650.0,24865.5
-St. Norbert College,1,30,56,4450,74,15.1,36,8595,88,38129.0,32513.64
-St. Thomas Aquinas College,1,10,27,5700,69,16.1,13,6534,67,31950.0,34395.78
-Stephens College,1,17,34,5200,46,10.9,17,9995,59,30950.0,26265.25
-Stevens Institute of Technology,1,51,93,5680,89,19.0,33,12837,79,52202.0,32884.6
-SUNY College  at Brockport,0,7,34,4460,79,19.0,14,6632,49,18192.0,34395.78
-SUNY College  at Oswego,0,17,70,4810,69,22.0,21,5280,63,18220.0,34395.78
-SUNY College at Buffalo,0,8,29,4040,71,18.7,12,7511,42,17990.0,34395.78
-SUNY College at Cortland,0,6,40,4680,82,17.8,17,5563,53,18338.0,34395.78
-SUNY College at Fredonia,0,13,48,4420,82,16.3,10,6442,66,18268.0,34395.78
-SUNY College at Geneseo,0,56,93,4170,79,19.1,25,5716,76,18431.0,34395.78
-SUNY College at New Paltz,0,19,53,4240,85,15.3,8,6608,53,18034.0,34395.78
-SUNY College at Plattsburgh,0,9,40,4176,80,17.9,16,6174,65,18259.0,34395.78
-SUNY College at Potsdam,0,16,51,4660,71,15.1,17,6436,59,18242.0,34395.78
-SUNY College at Purchase,0,5,33,4760,80,14.9,8,8170,46,18478.0,34395.78
-Susquehanna University,1,27,59,4710,83,13.9,37,10554,90,47290.0,40010.93
-Sweet Briar College,1,36,68,6000,91,6.5,48,18953,61,21000.0,35351.36
-Syracuse University,1,28,67,6870,73,11.3,13,14231,67,51853.0,34395.78
-Talladega College,1,30,60,2964,56,15.5,7,5970,46,12510.0,22816.29
-Taylor University,1,41,80,4000,60,14.2,32,8294,98,34114.0,34490.31
-Texas Wesleyan University,1,19,44,3484,80,14.5,10,7936,43,30300.0,24865.5
-The Citadel,0,12,36,2439,95,17.1,17,7744,84,36761.0,28452.0
-Thiel College,1,15,31,4958,68,11.6,16,9186,60,31700.0,40010.93
-Tiffin University,1,5,21,3800,59,19.0,40,5096,39,25000.0,33040.07
-Transylvania University,1,57,81,4450,81,12.1,41,10219,70,38750.0,30026.33
-Tulane University,1,47,75,5950,98,9.1,21,16920,74,54820.0,28257.5
-Tusculum College,1,12,34,3400,70,21.9,28,4933,52,24860.0,28651.89
-Tuskegee University,1,20,59,3395,70,12.2,7,10872,65,22170.0,22816.29
-University of California at Berkeley,0,95,100,6246,93,15.8,10,13919,78,43176.0,46781.28
-University of Central Florida,0,25,60,4234,80,22.2,9,6742,46,22467.0,25266.67
-University of Connecticut at Storrs,0,23,63,5072,89,16.0,16,10178,71,38098.0,40873.0
-University of Detroit Mercy,1,24,50,3996,72,13.5,14,10891,51,28000.0,30355.17
-University of Dubuque,1,11,39,3620,85,16.5,18,8767,45,34110.0,35244.9
-University of Evansville,1,35,67,4340,60,15.8,26,7780,77,36416.0,34490.31
-University of Hartford,1,11,26,6000,61,10.7,9,10625,66,40694.0,40873.0
-University of Illinois - Urbana,0,52,88,4574,87,17.4,13,8559,81,31664.0,33971.31
-University of Indianapolis,1,26,51,4080,55,11.1,23,6735,69,29688.0,34490.31
-University of La Verne,1,16,38,5050,66,14.1,23,10139,47,43050.0,46781.28
-University of Louisville,0,16,33,3600,84,11.1,24,10207,31,27278.0,30026.33
-University of Maine at Machias,0,17,45,3680,46,15.1,4,5935,64,15100.0,34116.75
-University of Maine at Presque Isle,0,10,40,3630,67,15.2,11,6408,35,12235.0,34116.75
-University of Massachusetts at Amherst,0,12,39,3897,88,16.7,15,10276,68,34755.0,42903.71
-University of Massachusetts at Dartmouth,0,10,37,4500,74,15.0,20,7462,56,29141.0,42903.71
-University of Minnesota at Duluth,0,15,45,3474,79,19.0,11,6393,53,18485.0,31501.71
-University of Minnesota at Morris,0,56,86,3180,74,14.6,16,6716,51,15342.0,31501.71
-University of Minnesota Twin Cities,0,26,55,3744,88,12.2,37,16122,45,30371.0,31501.71
-University of Missouri at Columbia,0,32,62,3485,87,12.7,15,10145,58,29025.0,26265.25
-University of Missouri at Saint Louis,0,18,54,3964,71,13.4,15,6433,48,27900.0,26265.25
-University of Mobile,1,17,54,3680,59,16.6,4,5412,52,22820.0,22816.29
-University of Montevallo,0,18,78,3030,72,18.9,8,5883,51,25780.0,22816.29
-University of Nebraska at Lincoln,0,33,63,3145,86,15.1,48,6813,53,24949.0,25599.25
-University of North Carolina at Asheville,0,32,74,3420,77,13.0,11,7011,37,23868.0,28096.64
-University of North Carolina at Chapel Hill,0,75,92,4200,88,8.9,23,15893,83,35170.0,28096.64
-University of North Carolina at Charlotte,0,19,62,3109,79,16.8,7,6227,62,20478.0,28096.64
-University of North Carolina at Wilmington,0,15,67,3680,82,19.1,15,6005,55,21065.0,28096.64
-University of North Florida,0,44,85,4360,82,17.8,14,6104,47,20112.0,25266.67
-University of Northern Colorado,0,12,37,4128,75,21.5,8,6309,40,21474.0,32213.33
-University of Northern Iowa,0,18,52,2930,78,16.3,26,6333,77,19480.0,35244.9
-University of Pittsburgh-Main Campus,0,25,59,4560,93,7.8,10,13789,66,32052.0,40010.93
-University of Puget Sound,1,51,83,4500,79,15.0,17,11217,63,49776.0,35535.4
-University of Rhode Island,0,12,40,5558,84,16.6,7,9158,63,30862.0,38591.33
-University of Richmond,1,46,72,3285,75,11.7,32,11984,100,52610.0,35351.36
-University of San Diego,1,40,70,5940,93,15.6,13,10813,66,49358.0,46781.28
-University of Sci. and Arts of Oklahoma,0,21,43,1920,67,23.6,3,3864,43,17565.0,25680.5
-University of Scranton,1,29,60,5986,83,14.1,41,9131,92,44532.0,40010.93
-University of South Carolina at Columbia,0,30,66,3522,84,16.9,18,8246,63,33298.0,28452.0
-University of Southern Mississippi,0,20,50,2470,78,18.7,23,5917,45,10734.0,10450.0
-University of Tennessee at Knoxville,0,27,53,3262,86,16.5,22,8612,53,31196.0,28651.89
-University of Texas at Arlington,0,19,43,2780,73,21.0,4,4696,29,25134.0,24865.5
-University of Texas at Austin,0,48,85,3309,91,19.7,11,7837,65,37480.0,24865.5
-University of Texas at San Antonio,0,17,46,5376,94,25.3,3,4329,50,24262.0,24865.5
-University of the Pacific,1,36,66,5326,87,11.2,14,13706,65,48040.0,46781.28
-University of Tulsa,1,41,68,4160,94,11.5,10,11743,47,41509.0,25680.5
-University of West Florida,0,20,57,3994,83,23.4,12,8488,53,18628.0,25266.67
-University of Wisconsin-Superior,0,14,53,2780,75,15.2,15,6490,36,15699.0,32513.64
-University of Wisconsin-Whitewater,0,12,38,2500,90,23.1,16,5559,67,16265.0,32513.64
-University of Wisconsin at Green Bay,0,17,50,2800,81,22.2,1,5968,46,15728.0,32513.64
-University of Wisconsin at Madison,0,36,80,4290,93,11.5,20,11006,72,36805.0,32513.64
-University of Wisconsin at Milwaukee,0,12,37,2964,79,15.9,8,8094,38,22364.0,32513.64
-University of Wyoming,0,23,46,3422,91,15.1,13,8745,45,17490.0,17490.0
-Upper Iowa University,1,10,35,3060,69,17.4,19,3733,78,30450.0,35244.9
-Ursinus College,1,44,77,5160,82,11.6,40,12082,79,52050.0,40010.93
-Ursuline College,1,21,47,4202,39,10.5,15,7164,68,32390.0,33040.07
-Valley City State University,0,5,27,2570,39,14.9,25,4958,40,17166.0,17166.0
-Valparaiso University,1,49,81,3260,87,14.2,23,9681,95,40260.0,34490.31
-Vanderbilt University,1,71,92,6525,93,5.8,26,23850,83,49816.0,28651.89
-Villanova University,1,30,68,6507,89,13.4,24,10458,96,53308.0,40010.93
-Virginia Commonwealth University,0,18,45,4182,81,8.7,11,11183,45,35138.0,35351.36
-Voorhees College,1,10,30,2522,43,22.9,3,5861,58,12630.0,28452.0
-Wabash College,1,41,76,4195,78,9.9,55,14904,72,43450.0,34490.31
-Wagner College,1,10,44,5800,67,13.2,23,9006,75,47090.0,34395.78
-Wake Forest University,1,75,88,4360,95,4.3,37,41766,89,53322.0,28096.64
-Walsh University,1,27,92,4180,42,11.3,33,5738,68,29980.0,33040.07
-Warren Wilson College,1,25,49,3052,65,11.4,20,9430,63,36280.0,28096.64
-Wartburg College,1,34,66,3610,66,12.4,37,7735,67,41280.0,35244.9
-Washington State University,0,31,70,4210,84,16.9,30,10912,56,26365.0,35535.4
-Wellesley College,1,80,96,5995,94,10.6,51,21409,91,53732.0,42903.71
-Wells College,1,40,85,5550,93,8.3,42,13935,69,40700.0,34395.78
-Wentworth Institute of Technology,1,6,25,6050,10,15.4,8,17858,64,33950.0,42903.71
-West Virginia Wesleyan College,1,28,55,3775,58,16.4,42,8080,67,31640.0,31640.0
-Western Carolina University,0,11,31,2380,67,14.6,9,6554,55,8220.0,28096.64
-Western New England College,1,7,21,5500,74,15.4,15,8409,59,37914.0,44855.67
-Westmont College,0,42,72,5304,77,14.9,17,8837,87,45304.0,46781.28
-Whitman College,1,45,77,4900,80,10.5,51,13198,72,51764.0,35535.4
-Whittier College,1,35,63,5699,84,13.6,29,11778,52,48086.0,46781.28
-Widener University,1,24,64,5370,88,12.6,19,9603,63,45948.0,40010.93
-Wilkes University,1,15,36,5130,78,13.3,24,8543,67,36194.0,40010.93
-Willamette University,1,49,80,4620,91,13.3,37,10779,68,50074.0,50074.0
-William Jewell College,1,32,67,2970,74,11.2,19,7885,59,34400.0,26265.25
-William Woods University,1,17,39,4365,39,12.9,16,7438,52,24110.0,26265.25
-Winthrop University,0,24,61,3392,71,12.8,26,6729,59,29846.0,28452.0
-Wisconsin Lutheran College,1,17,41,3700,48,8.5,26,8960,50,29725.0,32513.64
-Wittenberg University,1,42,68,4404,82,12.8,29,10414,78,39500.0,33040.07
-Wofford College,1,51,83,4150,91,15.3,42,7875,75,43845.0,28452.0
-Worcester Polytechnic Institute,1,49,86,5370,92,15.2,34,10774,82,50530.0,42903.71
-Xavier University of Louisiana,1,34,61,4200,67,14.4,20,8323,49,24488.0,28257.5
+name,Private,Top10perc,Top25perc,Room.Board,PhD,S.F.Ratio,perc.alumni,Expend,Grad.Rate,state,out_of_state_tuition
+Alaska Pacific University,1,16,44,4120,76,11.9,2,10922,15,Alaska,20830.0
+Albright College,1,30,63,4400,79,11.3,23,11644,80,Pennsylvania,45306.0
+Amherst College,1,83,96,5300,93,8.4,63,21424,100,Massachusetts,56426.0
+Auburn University-Main Campus,0,25,57,3933,85,16.7,18,6642,69,Alabama,30524.0
+Augustana College,1,21,58,3244,66,10.4,30,6871,69,Illinois,42135.0
+Averett College,1,16,40,4135,59,22.4,11,6523,48,Maryland,9870.0
+Beaver College,1,23,56,5400,78,12.2,30,8954,73,Georgia,13475.0
+Beloit College,1,26,54,3616,87,11.1,26,12957,69,Wisconsin,50040.0
+Bemidji State University,0,12,36,2700,57,19.6,16,3752,46,Minnesota,8696.0
+Bennington College,1,25,53,4100,35,10.1,33,16364,55,Vermont,54360.0
+Berry College,1,37,68,3940,80,16.3,17,10511,63,Georgia,36556.0
+Blackburn College,1,25,55,2700,76,14.3,53,8377,51,Illinois,22410.0
+Bowdoin College,1,76,100,5885,93,11.2,52,20447,96,Maine,53922.0
+Bradley University,1,30,58,4440,75,14.4,21,7671,85,Illinois,33760.0
+Brandeis University,1,48,77,6750,90,9.8,24,17150,84,Massachusetts,55395.0
+Brewton-Parker College,1,10,26,2370,62,12.6,10,4900,18,Georgia,18690.0
+Bryn Mawr College,1,71,95,6750,100,12.3,49,17449,89,Pennsylvania,52360.0
+California Lutheran University,1,23,52,5300,72,12.4,17,8985,60,California,42693.0
+Calvin College,1,29,56,3710,75,14.8,41,7786,81,Michigan,34600.0
+Canisius College,1,16,34,5340,90,14.6,26,7972,64,New York,28488.0
+Capital University,1,34,66,4000,64,12.1,27,9557,83,Ohio,35466.0
+Carleton College,1,75,93,3957,81,10.4,60,17960,91,Minnesota,54759.0
+Carnegie Mellon University,1,60,89,5690,86,9.2,31,24386,74,Pennsylvania,55465.0
+Carroll College,1,19,55,3880,74,17.8,25,7666,79,Montana,35486.0
+Carthage College,1,20,43,3775,74,15.9,22,7364,62,Wisconsin,43550.0
+Case Western Reserve University,1,71,93,4730,95,2.9,29,19733,67,Ohio,49042.0
+Castleton State College,0,9,22,4690,89,14.7,8,6318,79,Georgia,12668.0
+Catawba College,1,13,34,4100,75,13.5,27,8425,55,North Carolina,30520.0
+Cazenovia College,1,9,35,4840,22,14.3,20,7697,65,New York,34630.0
+Cedar Crest College,1,25,58,5285,58,11.7,39,10961,74,Pennsylvania,39216.0
+Centenary College of Louisiana,1,35,55,3490,86,11.3,25,9685,66,Louisiana,36580.0
+Central Connecticut State University,0,6,24,4444,69,16.7,4,4900,49,Connecticut,21856.0
+Central Washington University,0,8,65,3603,67,18.1,0,6413,51,Washington,23053.0
+Christendom College,1,33,71,3600,92,9.3,17,10922,58,Virginia,26360.0
+Christian Brothers University,1,16,42,3260,81,11.1,24,8129,63,Tennessee,32820.0
+Christopher Newport University,0,3,37,4750,80,21.2,16,4639,48,Virginia,27220.0
+Claremont McKenna College,1,71,93,6010,99,9.6,52,18443,87,California,54405.0
+Clarkson University,1,35,68,5580,95,15.8,32,11659,77,New York,49444.0
+Colby College,1,58,84,5590,83,10.2,41,15954,91,Maine,55210.0
+Colgate University,1,46,75,5565,95,10.5,45,15494,93,New York,55870.0
+College of Mount St. Joseph,1,14,41,4430,46,11.1,35,6889,100,Pennsylvania,21275.0
+College of Saint Benedict,1,29,62,4221,70,13.1,26,8847,72,Minnesota,45264.0
+College of Saint Elizabeth,1,34,53,5250,68,11.4,23,9447,78,New Jersey,33613.0
+College of Saint Rose,1,23,57,5666,66,14.3,28,6084,64,New York,32574.0
+College of St. Scholastica,1,29,60,3696,54,11.6,33,8996,72,Minnesota,37212.0
+College of Wooster,1,29,65,4690,84,11.1,43,14140,69,Ohio,50250.0
+Colorado College,1,56,87,4190,85,11.3,51,14664,84,Colorado,55470.0
+Connecticut College,1,42,93,6300,86,10.7,40,14773,91,Connecticut,54820.0
+Converse College,1,35,70,3700,63,10.2,31,10965,75,South Carolina,18690.0
+Cornell College,1,33,68,4323,71,12.2,31,10340,64,Iowa,42299.0
+Creighton University,1,30,60,4372,85,6.5,32,22906,85,Nebraska,39916.0
+Culver-Stockton College,1,24,55,3700,51,14.1,28,5807,51,Missouri,26680.0
+Cumberland College,1,26,47,3526,42,13.0,4,8189,63,New Jersey,8700.0
+Dartmouth College,1,87,99,6070,95,4.7,49,29619,98,New Hampshire,55453.0
+Defiance College,1,10,26,3670,58,12.8,19,7505,56,Ohio,32730.0
+Dickinson College,1,31,68,5000,87,11.2,39,13861,87,Pennsylvania,54661.0
+Dillard University,1,41,88,3650,52,14.1,12,7566,61,Louisiana,18099.0
+Dominican College of Blauvelt,1,4,19,5500,43,12.7,5,5480,54,New York,29000.0
+Dordt College,1,25,50,2650,61,12.5,17,7325,87,Iowa,30870.0
+Earlham College,1,35,63,4056,90,10.6,46,14634,78,Indiana,46450.0
+Eastern Nazarene College,1,17,40,3500,58,17.3,17,6430,70,Massachusetts,25598.0
+Elizabethtown College,1,36,70,4400,65,12.8,25,9815,81,Pennsylvania,46940.0
+Emory & Henry College,1,30,60,4408,79,13.9,51,8061,82,Virginia,35135.0
+Emory University,1,76,97,6000,97,5.0,28,28457,96,Georgia,51306.0
+Evergreen State College,0,14,50,4600,75,18.1,14,8355,68,Washington,26459.0
+Fairfield University,1,30,66,6200,86,15.1,30,11220,94,Connecticut,48350.0
+Fayetteville State University,0,1,16,2550,75,15.1,10,6972,24,North Carolina,16523.0
+Ferrum College,1,12,36,4200,53,12.5,9,7967,22,Virginia,34175.0
+Flagler College,1,18,52,3200,52,18.1,9,3930,69,Florida,18950.0
+Florida State University,0,50,90,4060,80,23.1,15,7250,58,Florida,21683.0
+Fordham University,1,30,55,6965,86,14.4,14,10864,80,New York,52687.0
+Fort Lewis College,0,16,35,3320,89,19.1,6,4362,46,Colorado,19696.0
+Franciscan University of Steubenville,1,22,49,4400,57,14.9,8,6336,83,Ohio,27630.0
+Franklin College,1,29,72,4040,54,12.5,37,11751,60,Indiana,32010.0
+Franklin Pierce College,1,3,14,4630,50,17.6,16,6418,51,Washington,5112.0
+Freed-Hardeman University,1,20,54,3340,68,16.1,13,6078,62,Tennessee,21950.0
+Fresno Pacific College,1,51,87,3670,59,10.5,14,8095,54,California,15804.0
+Gannon University,1,24,57,4280,47,13.3,18,7711,65,Pennsylvania,32136.0
+Gardner Webb University,1,18,36,4270,65,15.2,12,5664,29,North Carolina,31220.0
+Geneva College,1,19,39,4820,67,20.1,26,6786,74,Pennsylvania,26730.0
+Georgetown College,1,30,55,3950,73,13.3,28,7508,55,Kentucky,38650.0
+Gettysburg College,1,42,78,4328,94,12.1,32,14720,83,Pennsylvania,54480.0
+Goldey Beacom College,1,10,27,2985,25,27.6,4,6081,36,Delaware,24300.0
+Gonzaga University,1,31,67,4450,78,14.7,32,9553,69,Washington,43210.0
+Goshen College,1,26,51,3730,51,9.9,46,10270,72,Indiana,33700.0
+Goucher College,1,40,64,6174,78,9.2,34,16623,77,Maryland,44300.0
+Green Mountain College,1,7,20,2700,77,14.0,24,6475,76,Vermont,37002.0
+Greensboro College,1,10,31,3770,64,13.0,31,7949,39,North Carolina,29140.0
+Grinnell College,1,56,91,4618,88,9.5,54,18979,83,Iowa,52392.0
+Guilford College,1,18,44,5160,78,15.6,30,9114,65,North Carolina,38250.0
+Gustavus Adolphus College,1,36,72,3600,79,12.5,58,9907,80,Minnesota,45400.0
+Hamilton College,1,40,82,5050,91,9.6,60,17761,91,New York,54620.0
+Hamline University,1,34,73,4194,89,13.0,33,10296,65,Minnesota,41298.0
+Hampden - Sydney College,1,20,40,4773,95,13.3,53,12263,69,Virginia,45746.0
+Hardin-Simmons University,1,16,40,2980,75,13.7,10,7054,38,Texas,28990.0
+Hartwick College,1,22,49,4780,75,12.3,32,11625,73,New York,45510.0
+Harvey Mudd College,1,95,100,6690,100,8.2,46,21569,100,California,56876.0
+Hastings College,1,22,52,3272,57,13.0,17,7335,52,Nebraska,30050.0
+Hillsdale College,1,35,66,4700,80,12.0,31,12639,79,Michigan,27577.0
+Hiram College,1,37,66,4560,75,10.6,34,12165,79,Ohio,34300.0
+Hofstra University,1,25,63,5920,81,13.9,10,10093,60,New York,46760.0
+Hood College,1,36,64,6040,82,14.4,34,12434,72,Maryland,39492.0
+Hope College,1,37,69,4341,72,12.5,40,9284,72,Michigan,34010.0
+Houghton College,1,30,70,3550,85,15.0,24,8187,67,New York,32488.0
+Huntingdon College,1,26,47,3920,63,11.4,9,7703,44,Alabama,27400.0
+Huntington College,1,20,46,3920,76,11.8,25,9466,47,Tennessee,6635.0
+Husson College,1,10,30,4000,36,22.0,4,4923,84,Kansas,26900.0
+Illinois State University,0,10,35,3403,77,21.0,16,5569,54,Illinois,26040.0
+Illinois Wesleyan University,1,55,86,4090,77,12.9,34,9605,83,Illinois,47636.0
+Indiana State University,0,10,31,3706,72,16.6,8,6996,40,Indiana,19836.0
+Indiana University at Bloomington,0,25,72,3990,77,21.3,24,8686,68,Indiana,35456.0
+Indiana Wesleyan University,1,20,48,3782,49,39.8,15,6562,34,Indiana,25980.0
+Ithaca College,1,23,52,6192,58,11.5,25,9812,75,New York,43978.0
+James Madison University,0,32,72,4544,77,17.9,29,5212,98,Virginia,28416.0
+Johnson State College,0,3,13,4690,80,14.4,15,6564,36,Pennsylvania,18641.0
+Judson College,1,10,30,4554,34,10.6,30,7840,56,Alabama,18510.0
+Kansas Wesleyan University,1,16,40,3250,63,12.4,14,6535,68,Kansas,29500.0
+Kentucky Wesleyan College,1,20,49,4150,57,11.3,32,7058,62,Kentucky,26440.0
+Keuka College,1,10,43,4550,55,13.3,43,7863,51,New York,32093.0
+Knox College,1,48,77,4062,88,12.7,33,13224,79,Illinois,46554.0
+La Roche College,1,10,41,4782,57,14.2,14,7022,52,Pennsylvania,28564.0
+La Salle University,1,20,56,5610,90,15.1,9,9084,84,Pennsylvania,30560.0
+Lafayette College,1,36,59,5740,93,10.5,38,15365,92,Pennsylvania,52880.0
+Lawrence University,1,50,77,3891,76,10.1,57,13965,77,Wisconsin,47475.0
+Le Moyne College,1,21,76,4840,89,13.3,28,8118,94,New York,34625.0
+Lebanon Valley College,1,28,56,4755,84,12.3,30,8196,85,Pennsylvania,43650.0
+Lehigh University,1,40,84,5580,96,12.5,43,14665,91,Pennsylvania,52930.0
+Lesley College,1,12,33,5300,71,27.8,18,8694,58,Texas,5313.0
+LeTourneau University,1,29,54,4240,58,20.8,23,6863,56,Texas,30210.0
+Lincoln Memorial University,1,21,55,2890,67,14.6,35,5177,53,Tennessee,22010.0
+Livingstone College,1,22,47,3400,53,10.4,16,9268,92,North Carolina,18297.0
+Lock Haven University of Pennsylvania,0,17,41,3620,47,16.1,14,6374,63,Pennsylvania,20452.0
+Louisiana College,1,33,61,3036,64,10.5,11,7547,59,Louisiana,17000.0
+Louisiana State University at Baton Rouge,0,29,57,2980,83,15.9,11,6741,37,Pennsylvania,21886.0
+Louisiana Tech University,0,22,45,2325,66,20.0,13,4546,45,Louisiana,18558.0
+Loyola Marymount University,1,42,64,5916,84,14.2,10,11677,84,California,48522.0
+Loyola University Chicago,1,25,55,5330,94,6.2,15,13009,65,Illinois,44048.0
+Lycoming College,1,16,37,4300,75,14.0,32,8024,72,Pennsylvania,40315.0
+Lyndon State College,0,6,20,4640,48,12.6,15,7114,51,Vermont,25394.0
+Macalester College,1,56,86,4772,85,11.9,37,14213,77,Minnesota,54344.0
+Manchester College,1,23,63,3850,63,11.8,20,7940,64,Michigan,24218.0
+Manhattan College,1,20,63,6800,92,13.6,25,10062,79,New York,43480.0
+Manhattanville College,1,21,54,6550,97,11.3,24,11291,70,New York,38820.0
+Mankato State University,0,9,29,2643,57,19.0,11,5801,68,Minnesota,16235.0
+Marist College,1,12,31,5925,74,17.6,34,8408,69,New York,39600.0
+Marquette University,1,36,71,4760,86,13.5,25,9982,77,Wisconsin,41870.0
+Marymount Manhattan College,1,21,30,7000,63,11.7,20,10622,68,New York,33778.0
+Maryville College,1,26,52,4208,80,11.1,43,8317,51,Tennessee,34880.0
+Massachusetts Institute of Technology,1,96,99,5975,99,10.1,35,33541,94,Massachusetts,51832.0
+McMurry University,1,25,50,3452,57,11.0,11,6383,32,Texas,27244.0
+Mercer University,1,37,70,4081,93,9.2,15,8995,91,Georgia,36894.0
+Mercyhurst College,1,15,40,4050,45,16.7,29,7307,78,Mississippi,9900.0
+Merrimack College,1,18,36,6200,73,16.8,22,8707,80,Massachusetts,41760.0
+Mesa State College,0,6,18,3798,48,28.8,12,3871,59,Ohio,8958.0
+Messiah College,1,30,64,5080,68,14.1,30,7762,89,Pennsylvania,35160.0
+Miami University at Oxford,0,35,39,3960,81,17.6,20,7846,85,Ohio,34895.0
+Michigan Technological University,0,42,77,3978,82,17.0,25,7473,65,Michigan,33726.0
+Milligan College,1,26,52,3300,63,12.0,16,8128,64,Tennessee,33700.0
+Millikin University,1,29,62,4378,60,11.4,25,8149,75,Illinois,35102.0
+Mississippi College,1,36,57,2830,77,16.5,18,6170,61,Mississippi,18026.0
+Mississippi University for Women,0,19,46,2217,49,15.8,8,5704,63,Mississippi,7040.0
+Missouri Valley College,1,5,35,5050,35,17.4,16,4333,27,Missouri,20600.0
+Monmouth College,1,14,34,5290,70,14.2,15,9492,54,Illinois,37674.0
+Montclair State University,0,19,53,4834,82,21.5,9,6717,58,New Jersey,20578.0
+Moravian College,1,23,58,4730,86,15.2,28,9566,74,Pennsylvania,43636.0
+Morehouse College,1,41,66,5490,71,17.8,10,8122,83,Georgia,27574.0
+Morningside College,1,16,36,3678,48,13.0,32,8111,56,Iowa,31530.0
+Morris College,1,2,13,2550,53,18.6,34,6990,60,South Carolina,13886.0
+Mount Holyoke College,1,47,79,5700,79,9.0,51,18359,84,Massachusetts,49998.0
+Mount Marty College,1,17,37,2980,45,11.7,38,5073,44,South Dakota,27276.0
+Mount Mary College,1,12,32,3119,51,10.7,26,7016,78,Massachusetts,35720.0
+Mount Mercy College,1,20,49,3555,44,11.3,30,6695,64,New York,19042.0
+Mount Saint Mary College,1,14,48,4600,74,15.3,23,6898,88,New York,31118.0
+Murray State University,0,29,55,3110,72,20.2,27,5972,52,Kentucky,24540.0
+Nazareth College of Rochester,1,36,68,5150,77,13.6,24,8797,61,New York,34280.0
+North Carolina Wesleyan College,1,7,24,4230,77,12.7,11,10090,52,North Carolina,31000.0
+North Park College,1,19,39,4345,76,13.1,24,10889,74,Texas,5220.0
+Northern Illinois University,0,12,37,3296,73,17.3,11,6086,56,Illinois,12262.0
+Northwest Missouri State University,0,8,29,3136,62,21.7,23,5284,54,Missouri,16457.0
+Norwich University,1,8,29,5270,71,13.1,22,9209,63,Vermont,40016.0
+Notre Dame College,1,15,37,4900,44,12.1,26,4948,33,Ohio,30160.0
+Occidental College,1,52,81,5140,91,10.5,30,16196,79,California,54686.0
+Oglethorpe University,1,56,87,4340,91,13.1,27,8568,67,Georgia,38100.0
+Ohio Northern University,1,35,62,4080,73,14.5,31,9979,83,Ohio,32260.0
+Oklahoma Baptist University,1,35,59,3140,63,15.1,18,5511,50,Oklahoma,28258.0
+Ouachita Baptist University,1,31,73,2800,63,13.3,10,6413,65,Arkansas,26790.0
+Our Lady of the Lake University,1,22,46,3644,56,14.9,25,7114,37,Texas,28740.0
+Pacific Lutheran University,1,31,68,4488,78,11.0,23,9431,83,Washington,42066.0
+Pacific Union College,1,20,48,3825,48,12.3,12,9157,69,California,30060.0
+Pepperdine University,1,86,96,6770,95,11.6,13,16185,66,California,53932.0
+Peru State College,0,10,40,2624,48,20.1,24,4870,44,Nebraska,7482.0
+Phillips University,1,19,50,3860,58,11.6,19,8990,39,Virginia,39035.0
+Piedmont College,1,20,40,3620,89,13.2,17,7309,31,Georgia,25920.0
+Pitzer College,1,37,73,5900,100,10.4,11,14820,73,California,54056.0
+Prairie View A. and M. University,0,10,22,3500,55,19.4,1,5967,35,Texas,24843.0
+Presbyterian College,1,34,63,3635,80,13.4,42,8354,85,South Carolina,38660.0
+Princeton University,1,90,98,5910,91,8.4,54,28320,99,New Jersey,49330.0
+Providence College,1,20,55,6200,66,18.4,35,8135,96,Rhode Island,50390.0
+Purdue University at West Lafayette,0,29,60,3990,86,18.2,15,8604,67,Indiana,28794.0
+Queens College,1,32,62,4970,73,14.0,36,9315,58,New York,18608.0
+Quincy University,1,22,66,4140,69,16.3,32,6880,80,Illinois,28462.0
+Regis College,1,18,38,5800,81,10.3,37,11758,84,Massachusetts,41015.0
+Rensselaer Polytechnic Institute,1,53,82,5976,94,15.4,21,15605,70,New York,53880.0
+Roanoke College,1,27,54,4425,85,13.0,26,9405,72,Virginia,44030.0
+Rocky Mountain College,1,11,31,3362,56,11.3,27,6422,68,Montana,28512.0
+Roger Williams University,1,10,20,6050,44,16.4,8,7957,61,Rhode Island,34522.0
+Rollins College,1,31,55,5220,81,13.3,23,11561,90,Florida,49760.0
+Sacred Heart University,1,19,51,5780,71,14.8,16,7120,82,Connecticut,41420.0
+Saint Ambrose University,1,12,48,4020,56,14.1,16,7444,70,Iowa,30894.0
+Saint Anselm College,1,15,40,5400,70,14.5,29,6719,97,New Hampshire,41200.0
+Saint Cloud State University,0,10,34,2625,70,18.9,10,4629,58,Minnesota,17146.0
+Saint Francis College,1,21,45,5050,64,19.3,24,7344,69,New York,26188.0
+Saint Mary's College,1,26,60,4514,74,9.9,31,11165,98,Indiana,42220.0
+Saint Michael's College,1,16,64,5860,79,14.5,34,10190,84,Vermont,45375.0
+Saint Olaf College,1,38,73,3750,82,10.0,31,12502,83,Minnesota,47840.0
+Saint Xavier University,1,15,65,4624,87,13.7,15,8953,55,Illinois,33880.0
+Santa Clara University,1,40,73,5928,88,13.9,19,10872,100,California,51711.0
+Sarah Lawrence College,1,57,82,6694,89,6.1,18,14779,83,New York,55900.0
+Savannah Coll. of Art and Design,1,20,65,5000,14,16.1,26,6874,55,Georgia,36630.0
+Scripps College,1,60,83,7350,95,8.2,41,18372,73,California,55024.0
+Seattle Pacific University,1,42,82,4875,83,16.8,20,10368,66,Washington,42939.0
+Seattle University,1,28,72,4375,85,12.2,16,10175,89,Washington,44610.0
+Simmons College,1,23,53,6950,74,8.9,33,14086,79,Massachusetts,40800.0
+Simpson College,1,27,57,4980,66,15.8,36,7411,70,Iowa,39144.0
+Skidmore College,1,25,62,5970,87,12.7,29,14837,81,New York,54420.0
+Southeastern Oklahoma State Univ.,0,20,50,2619,55,19.6,9,4444,53,Oklahoma,15390.0
+Southwest State University,0,13,33,2750,58,16.5,31,6591,51,Minnesota,8632.0
+Southwestern Adventist College,1,11,27,3736,44,13.0,12,5309,36,Mississippi,6550.0
+Spalding University,1,10,45,2800,50,10.6,40,6860,89,Kentucky,24500.0
+Spelman College,1,47,83,5565,73,12.5,18,9988,65,Georgia,29314.0
+St. Bonaventure University,1,13,45,4927,91,17.7,32,9828,78,New York,34301.0
+St. Mary's College of California,1,36,80,6354,88,16.1,17,9619,78,California,47280.0
+St. Mary's College of Maryland,0,42,73,4730,84,11.6,23,10357,63,Maryland,30568.0
+St. Mary's University of San Antonio,1,33,60,3858,82,16.2,7,7651,72,Texas,30650.0
+St. Norbert College,1,30,56,4450,74,15.1,36,8595,88,Wisconsin,38129.0
+St. Thomas Aquinas College,1,10,27,5700,69,16.1,13,6534,67,New York,31950.0
+Stephens College,1,17,34,5200,46,10.9,17,9995,59,Missouri,30950.0
+Stevens Institute of Technology,1,51,93,5680,89,19.0,33,12837,79,New Jersey,52202.0
+SUNY College  at Brockport,0,7,34,4460,79,19.0,14,6632,49,New York,18192.0
+SUNY College  at Oswego,0,17,70,4810,69,22.0,21,5280,63,New York,18220.0
+SUNY College at Buffalo,0,8,29,4040,71,18.7,12,7511,42,New York,17990.0
+SUNY College at Cortland,0,6,40,4680,82,17.8,17,5563,53,New York,18338.0
+SUNY College at Fredonia,0,13,48,4420,82,16.3,10,6442,66,New York,18268.0
+SUNY College at Geneseo,0,56,93,4170,79,19.1,25,5716,76,New York,18431.0
+SUNY College at New Paltz,0,19,53,4240,85,15.3,8,6608,53,New York,18034.0
+SUNY College at Plattsburgh,0,9,40,4176,80,17.9,16,6174,65,New York,18259.0
+SUNY College at Potsdam,0,16,51,4660,71,15.1,17,6436,59,New York,18242.0
+SUNY College at Purchase,0,5,33,4760,80,14.9,8,8170,46,New York,18478.0
+Susquehanna University,1,27,59,4710,83,13.9,37,10554,90,Pennsylvania,47290.0
+Sweet Briar College,1,36,68,6000,91,6.5,48,18953,61,Virginia,21000.0
+Syracuse University,1,28,67,6870,73,11.3,13,14231,67,New York,51853.0
+Talladega College,1,30,60,2964,56,15.5,7,5970,46,Alabama,12510.0
+Taylor University,1,41,80,4000,60,14.2,32,8294,98,Indiana,34114.0
+Texas Wesleyan University,1,19,44,3484,80,14.5,10,7936,43,Texas,30300.0
+The Citadel,0,12,36,2439,95,17.1,17,7744,84,South Carolina,36761.0
+Thiel College,1,15,31,4958,68,11.6,16,9186,60,Pennsylvania,31700.0
+Tiffin University,1,5,21,3800,59,19.0,40,5096,39,Ohio,25000.0
+Transylvania University,1,57,81,4450,81,12.1,41,10219,70,Kentucky,38750.0
+Tulane University,1,47,75,5950,98,9.1,21,16920,74,Louisiana,54820.0
+Tusculum College,1,12,34,3400,70,21.9,28,4933,52,Tennessee,24860.0
+Tuskegee University,1,20,59,3395,70,12.2,7,10872,65,Alabama,22170.0
+University of California at Berkeley,0,95,100,6246,93,15.8,10,13919,78,California,43176.0
+University of Central Florida,0,25,60,4234,80,22.2,9,6742,46,Florida,22467.0
+University of Connecticut at Storrs,0,23,63,5072,89,16.0,16,10178,71,Connecticut,38098.0
+University of Detroit Mercy,1,24,50,3996,72,13.5,14,10891,51,Michigan,28000.0
+University of Dubuque,1,11,39,3620,85,16.5,18,8767,45,Iowa,34110.0
+University of Evansville,1,35,67,4340,60,15.8,26,7780,77,Indiana,36416.0
+University of Hartford,1,11,26,6000,61,10.7,9,10625,66,Connecticut,40694.0
+University of Illinois - Urbana,0,52,88,4574,87,17.4,13,8559,81,Illinois,31664.0
+University of Indianapolis,1,26,51,4080,55,11.1,23,6735,69,Indiana,29688.0
+University of La Verne,1,16,38,5050,66,14.1,23,10139,47,California,43050.0
+University of Louisville,0,16,33,3600,84,11.1,24,10207,31,Kentucky,27278.0
+University of Maine at Machias,0,17,45,3680,46,15.1,4,5935,64,Maine,15100.0
+University of Maine at Presque Isle,0,10,40,3630,67,15.2,11,6408,35,Maine,12235.0
+University of Massachusetts at Amherst,0,12,39,3897,88,16.7,15,10276,68,Massachusetts,34755.0
+University of Massachusetts at Dartmouth,0,10,37,4500,74,15.0,20,7462,56,Massachusetts,29141.0
+University of Minnesota at Duluth,0,15,45,3474,79,19.0,11,6393,53,Minnesota,18485.0
+University of Minnesota at Morris,0,56,86,3180,74,14.6,16,6716,51,Minnesota,15342.0
+University of Minnesota Twin Cities,0,26,55,3744,88,12.2,37,16122,45,Minnesota,30371.0
+University of Missouri at Columbia,0,32,62,3485,87,12.7,15,10145,58,Missouri,29025.0
+University of Missouri at Saint Louis,0,18,54,3964,71,13.4,15,6433,48,Missouri,27900.0
+University of Mobile,1,17,54,3680,59,16.6,4,5412,52,Alabama,22820.0
+University of Montevallo,0,18,78,3030,72,18.9,8,5883,51,Alabama,25780.0
+University of Nebraska at Lincoln,0,33,63,3145,86,15.1,48,6813,53,Nebraska,24949.0
+University of North Carolina at Asheville,0,32,74,3420,77,13.0,11,7011,37,North Carolina,23868.0
+University of North Carolina at Chapel Hill,0,75,92,4200,88,8.9,23,15893,83,North Carolina,35170.0
+University of North Carolina at Charlotte,0,19,62,3109,79,16.8,7,6227,62,North Carolina,20478.0
+University of North Carolina at Wilmington,0,15,67,3680,82,19.1,15,6005,55,North Carolina,21065.0
+University of North Florida,0,44,85,4360,82,17.8,14,6104,47,Florida,20112.0
+University of Northern Colorado,0,12,37,4128,75,21.5,8,6309,40,Colorado,21474.0
+University of Northern Iowa,0,18,52,2930,78,16.3,26,6333,77,Iowa,19480.0
+University of Pittsburgh-Main Campus,0,25,59,4560,93,7.8,10,13789,66,Pennsylvania,32052.0
+University of Puget Sound,1,51,83,4500,79,15.0,17,11217,63,Washington,49776.0
+University of Rhode Island,0,12,40,5558,84,16.6,7,9158,63,Rhode Island,30862.0
+University of Richmond,1,46,72,3285,75,11.7,32,11984,100,Virginia,52610.0
+University of San Diego,1,40,70,5940,93,15.6,13,10813,66,California,49358.0
+University of Sci. and Arts of Oklahoma,0,21,43,1920,67,23.6,3,3864,43,Oklahoma,17565.0
+University of Scranton,1,29,60,5986,83,14.1,41,9131,92,Pennsylvania,44532.0
+University of South Carolina at Columbia,0,30,66,3522,84,16.9,18,8246,63,South Carolina,33298.0
+University of Southern Mississippi,0,20,50,2470,78,18.7,23,5917,45,Mississippi,10734.0
+University of Tennessee at Knoxville,0,27,53,3262,86,16.5,22,8612,53,Tennessee,31196.0
+University of Texas at Arlington,0,19,43,2780,73,21.0,4,4696,29,Texas,25134.0
+University of Texas at Austin,0,48,85,3309,91,19.7,11,7837,65,Texas,37480.0
+University of Texas at San Antonio,0,17,46,5376,94,25.3,3,4329,50,Texas,24262.0
+University of the Pacific,1,36,66,5326,87,11.2,14,13706,65,California,48040.0
+University of Tulsa,1,41,68,4160,94,11.5,10,11743,47,Oklahoma,41509.0
+University of West Florida,0,20,57,3994,83,23.4,12,8488,53,Florida,18628.0
+University of Wisconsin-Superior,0,14,53,2780,75,15.2,15,6490,36,Wisconsin,15699.0
+University of Wisconsin-Whitewater,0,12,38,2500,90,23.1,16,5559,67,Wisconsin,16265.0
+University of Wisconsin at Green Bay,0,17,50,2800,81,22.2,1,5968,46,Wisconsin,15728.0
+University of Wisconsin at Madison,0,36,80,4290,93,11.5,20,11006,72,Wisconsin,36805.0
+University of Wisconsin at Milwaukee,0,12,37,2964,79,15.9,8,8094,38,Wisconsin,22364.0
+University of Wyoming,0,23,46,3422,91,15.1,13,8745,45,Wyoming,17490.0
+Upper Iowa University,1,10,35,3060,69,17.4,19,3733,78,Iowa,30450.0
+Ursinus College,1,44,77,5160,82,11.6,40,12082,79,Pennsylvania,52050.0
+Ursuline College,1,21,47,4202,39,10.5,15,7164,68,Ohio,32390.0
+Valley City State University,0,5,27,2570,39,14.9,25,4958,40,North Dakota,17166.0
+Valparaiso University,1,49,81,3260,87,14.2,23,9681,95,Indiana,40260.0
+Vanderbilt University,1,71,92,6525,93,5.8,26,23850,83,Tennessee,49816.0
+Villanova University,1,30,68,6507,89,13.4,24,10458,96,Pennsylvania,53308.0
+Virginia Commonwealth University,0,18,45,4182,81,8.7,11,11183,45,Virginia,35138.0
+Voorhees College,1,10,30,2522,43,22.9,3,5861,58,South Carolina,12630.0
+Wabash College,1,41,76,4195,78,9.9,55,14904,72,Indiana,43450.0
+Wagner College,1,10,44,5800,67,13.2,23,9006,75,New York,47090.0
+Wake Forest University,1,75,88,4360,95,4.3,37,41766,89,North Carolina,53322.0
+Walsh University,1,27,92,4180,42,11.3,33,5738,68,Ohio,29980.0
+Warren Wilson College,1,25,49,3052,65,11.4,20,9430,63,North Carolina,36280.0
+Wartburg College,1,34,66,3610,66,12.4,37,7735,67,Iowa,41280.0
+Washington State University,0,31,70,4210,84,16.9,30,10912,56,Washington,26365.0
+Wellesley College,1,80,96,5995,94,10.6,51,21409,91,Massachusetts,53732.0
+Wells College,1,40,85,5550,93,8.3,42,13935,69,New York,40700.0
+Wentworth Institute of Technology,1,6,25,6050,10,15.4,8,17858,64,Massachusetts,33950.0
+West Virginia Wesleyan College,1,28,55,3775,58,16.4,42,8080,67,West Virginia,31640.0
+Western Carolina University,0,11,31,2380,67,14.6,9,6554,55,North Carolina,8220.0
+Western New England College,1,7,21,5500,74,15.4,15,8409,59,New Hampshire,37914.0
+Westmont College,0,42,72,5304,77,14.9,17,8837,87,California,45304.0
+Whitman College,1,45,77,4900,80,10.5,51,13198,72,Washington,51764.0
+Whittier College,1,35,63,5699,84,13.6,29,11778,52,California,48086.0
+Widener University,1,24,64,5370,88,12.6,19,9603,63,Pennsylvania,45948.0
+Wilkes University,1,15,36,5130,78,13.3,24,8543,67,Pennsylvania,36194.0
+Willamette University,1,49,80,4620,91,13.3,37,10779,68,Oregon,50074.0
+William Jewell College,1,32,67,2970,74,11.2,19,7885,59,Missouri,34400.0
+William Woods University,1,17,39,4365,39,12.9,16,7438,52,Missouri,24110.0
+Winthrop University,0,24,61,3392,71,12.8,26,6729,59,South Carolina,29846.0
+Wisconsin Lutheran College,1,17,41,3700,48,8.5,26,8960,50,Wisconsin,29725.0
+Wittenberg University,1,42,68,4404,82,12.8,29,10414,78,Ohio,39500.0
+Wofford College,1,51,83,4150,91,15.3,42,7875,75,South Carolina,43845.0
+Worcester Polytechnic Institute,1,49,86,5370,92,15.2,34,10774,82,Massachusetts,50530.0
+Xavier University of Louisiana,1,34,61,4200,67,14.4,20,8323,49,Louisiana,24488.0
